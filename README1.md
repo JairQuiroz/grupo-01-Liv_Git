@@ -15,3 +15,17 @@
 9| *8 Cucharadas* | Fécula de maíz disuelta en ¾taza de agua |
 10| *2 Kg* | Costillas de cerdo Baby Back Ribs limpias |
 11| *1 Bolsa* | Chips de cerezo para asador |
+
+# ¡A cocinar!
+
+## ***Marina***
+```
+- 1.-  Remoja las chips por lo menos 30 minutos previo a asar. Prepara tu asador a fuego medio indirecto **(350 °F a 450 °F / 175 °C a 232 °C)**. En una olla, calienta el aceite, fríe el ajo y el jengibre, hasta que cambien de color, incorpora la miel, la mermelada, la Salsa de Soya MAGGI®, el Jugo MAGGI® y el vinagre. Deja hervir durante 4 minutos, incorpora la fécula a la salsa y deja espesar ligeramente. Barniza las costillas con la salsa y reserva.
+```
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUDAjlsJNvVf_wHuAbukkOQsU_FGm058Vxg&usqp=CAU">
+ <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUDAjlsJNvVf_wHuAbukkOQsU_FGm058Vxg&usqp=CAU">
+ <img alt="Las mejores cosntillas de Liverpool" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
