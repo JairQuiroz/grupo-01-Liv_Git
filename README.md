@@ -19,6 +19,7 @@
 # ¡A cocinar!
 
 ## ***Marina***
+```
 - 1.-  Remoja las chips por lo menos 30 minutos previo a asar. Prepara tu asador a fuego medio indirecto **(350 °F a 450 °F / 175 °C a 232 °C)**. En una olla, calienta el aceite, fríe el ajo y el jengibre, hasta que cambien de color, incorpora la miel, la mermelada, la Salsa de Soya MAGGI®, el Jugo MAGGI® y el vinagre. Deja hervir durante 4 minutos, incorpora la fécula a la salsa y deja espesar ligeramente. Barniza las costillas con la salsa y reserva.
 ```
 
@@ -30,8 +31,9 @@
 
 
 ## ***Asa***
+```
 - 2.- Drena el agua de las chips, agrega la madera directo al carbón y cuando empiece a salir humo limpio coloca las costillas y ásalas a fuego indirecto con el hueso hacia abajo por 1 hora o hasta que se vea 1 pulgada del hueso fuera de la carne. Retira del asador, coloca en papel aluminio, agrega más salsa, cierra y asa a fuego indirecto por 1 ½ a 2 horas más.
-
+```
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://s.yimg.com/ny/api/res/1.2/3uNbt6ChHF1mL_mlbHi7iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzNjtjZj13ZWJw/https://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/d986543722dbaa3627c7c46341e88b90">
@@ -40,13 +42,12 @@
 </picture>
 
 ## ***Salsea, reposa y sirve***
+```
 - 3.- Retira las costillas del papel aluminio, agrega un poco de más salsa y cocina a fuego indirecto 30 minutos o hasta que estén suaves. Retira del asador, reposa de 5 a 10 minutos y sirve.
-
+```
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.cocinavital.mx/wp-content/uploads/2017/08/costillas-con-elote-e1560537976531.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://www.cocinavital.mx/wp-content/uploads/2017/08/costillas-con-elote-e1560537976531.jpg">
  <img alt="Las mejores cosntillas de Liverpool" src="YOUR-DEFAULT-IMAGE">
 </picture>
-
-
 
