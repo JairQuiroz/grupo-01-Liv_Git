@@ -28,4 +28,15 @@
  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiUDAjlsJNvVf_wHuAbukkOQsU_FGm058Vxg&usqp=CAU">
  <img alt="Las mejores cosntillas de Liverpool" src="YOUR-DEFAULT-IMAGE">
 </picture>
+## ***Salsea, reposa y sirve***
+```
+3.- Retira las costillas del papel aluminio, agrega un poco de más salsa y cocina a fuego indirecto 30 minutos o hasta que estén suaves. Retira del asador, reposa de 5 a 10 minutos y sirve.
+```
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.cocinavital.mx/wp-content/uploads/2017/08/costillas-con-elote-e1560537976531.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.cocinavital.mx/wp-content/uploads/2017/08/costillas-con-elote-e1560537976531.jpg">
+ <img alt="Las mejores cosntillas de Liverpool" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 
