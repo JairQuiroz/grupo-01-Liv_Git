@@ -29,9 +29,10 @@
  <img alt="Las mejores cosntillas de Liverpool" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+
 ## ***Asa***
 ```
-2.- Drena el agua de las chips, agrega la madera directo al carbón y cuando empiece a salir humo limpio coloca las costillas y ásalas a fuego indirecto con el hueso hacia abajo por 1 hora o hasta que se vea 1 pulgada del hueso fuera de la carne. Retira del asador, coloca en papel aluminio, agrega más salsa, cierra y asa a fuego indirecto por 1 ½ a 2 horas más.
+- 2.- Drena el agua de las chips, agrega la madera directo al carbón y cuando empiece a salir humo limpio coloca las costillas y ásalas a fuego indirecto con el hueso hacia abajo por 1 hora o hasta que se vea 1 pulgada del hueso fuera de la carne. Retira del asador, coloca en papel aluminio, agrega más salsa, cierra y asa a fuego indirecto por 1 ½ a 2 horas más.
 ```
 
 <picture>
@@ -40,13 +41,13 @@
  <img alt="Las mejores cosntillas de Liverpool" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-
 ## ***Salsea, reposa y sirve***
 ```
-3.- Retira las costillas del papel aluminio, agrega un poco de más salsa y cocina a fuego indirecto 30 minutos o hasta que estén suaves. Retira del asador, reposa de 5 a 10 minutos y sirve.
+- 3.- Retira las costillas del papel aluminio, agrega un poco de más salsa y cocina a fuego indirecto 30 minutos o hasta que estén suaves. Retira del asador, reposa de 5 a 10 minutos y sirve.
 ```
 <picture>
- <sour
-
-
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.cocinavital.mx/wp-content/uploads/2017/08/costillas-con-elote-e1560537976531.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.cocinavital.mx/wp-content/uploads/2017/08/costillas-con-elote-e1560537976531.jpg">
+ <img alt="Las mejores cosntillas de Liverpool" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
