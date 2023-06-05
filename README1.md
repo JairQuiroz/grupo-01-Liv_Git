@@ -1,3 +1,4 @@
+
 ## **Costillas con Teriyaki en Asador**
 
 ### INGREDIENTES
@@ -51,3 +52,16 @@
  <img alt="Las mejores cosntillas de Liverpool" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+:pig2::sunglasses:!Si tienes dudas de te dejamos el video!:sunglasses::pig2:
+
+<a href="https://www.youtube.com/watch?v=AiBvd6sy5tE
+" target="_blank"><img src="https://recetasdecocina.elmundo.es/wp-content/uploads/2015/02/receta-costillas-teriyaki.jpg" 
+alt="IMAGE ALT TEXT HERE" width="500" height="180" border="5" /></a>
+---
+# TE A GUSTADO LA RECETA SIGUENOS:
+
+## [**MejoresRecetas.com**](https://www.recetasnestle.com.mx/)
+
+## [*Intagram-MejoresRecetas*](https://www.instagram.com/recetasgeniales)
+
+## [~~Facebook-MejoresRecetas~~](https://www.facebook.com/querecetascom/?locale=es_LA)
